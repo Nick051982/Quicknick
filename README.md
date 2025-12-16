@@ -269,3 +269,4 @@ Ihr Name / Ihr Verein
 **Viel Erfolg mit Ihrer FC Training App! ⚽**
 
 Bei Fragen: [GitHub Issues](https://github.com/IHR-USERNAME/fc-training-app/issues)
+Trigger rebuiold
